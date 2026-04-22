@@ -2,6 +2,7 @@
 AI-Driven Antibody Discovery Engine
 End-to-End Bioinformatics + AI Pipeline | Automated | Dashboard Enabled
 
+<img width="1402" height="1122" alt="dashboard" src="https://github.com/user-attachments/assets/515fb2d0-fb97-4040-88fd-2e14b2a7bc09" />
 Overview
 
 This project implements a complete pipeline for antibody sequence analysis and candidate ranking using bioinformatics feature extraction and AI-based scoring.
