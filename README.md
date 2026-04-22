@@ -28,7 +28,6 @@ pip install -r requirements.txt
 Open in browser:
 
 http://localhost:8501
-(or Network URL if using WSL)
 
 Overview
 
