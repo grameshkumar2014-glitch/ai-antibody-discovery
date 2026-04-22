@@ -131,6 +131,9 @@ Positioning Statement
 
 Developed an automated AI-driven antibody discovery pipeline integrating bioinformatics feature extraction, computational scoring, and interactive visualization.
 
+Real-World Relevance
+
+AI-driven antibody discovery is transforming drug development by reducing time and cost compared to traditional experimental pipelines.
 ## One-Command Execution
 
 Run the complete antibody discovery pipeline with a single command:
