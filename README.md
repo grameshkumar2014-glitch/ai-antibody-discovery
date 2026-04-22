@@ -4,6 +4,7 @@ End-to-End Bioinformatics + AI Pipeline | Automated | Dashboard Enabled
 
 <img width="1402" height="1122" alt="dashboard" src="https://github.com/user-attachments/assets/515fb2d0-fb97-4040-88fd-2e14b2a7bc09" />
 
+Run in One Command
 ## ▶️ How to Run
 
 ```bash
