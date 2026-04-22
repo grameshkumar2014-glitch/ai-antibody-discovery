@@ -31,7 +31,7 @@ http://localhost:8501
 
 Overview
 
-This project implements a complete pipeline for antibody sequence analysis and candidate ranking using bioinformatics feature extraction and AI-based scoring.
+This project simulaes a complete pipeline for antibody sequence analysis and candidate ranking using bioinformatics feature extraction and AI-based scoring.
 It simulates real-world workflows used in antibody drug discovery, enabling identification of high-potential therapeutic candidates.
 
 Input Data (Antibody Sequences)
