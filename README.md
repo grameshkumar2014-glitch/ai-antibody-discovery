@@ -130,3 +130,22 @@ Dr. Ramesh Kumar Gopal, PhD.,
 Positioning Statement
 
 Developed an automated AI-driven antibody discovery pipeline integrating bioinformatics feature extraction, computational scoring, and interactive visualization.
+
+## ⚡ One-Command Execution
+
+Run the complete antibody discovery pipeline with a single command:
+
+```bash
+./run_pipeline.sh
+```
+
+This automatically performs:
+
+* Feature extraction
+* AI-based scoring
+* Candidate ranking
+* Visualization
+* Dashboard launch
+
+---
+
