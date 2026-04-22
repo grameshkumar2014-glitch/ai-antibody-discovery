@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🌐 Access Dashboard
+## Access Dashboard
 
 Open in browser:
 
