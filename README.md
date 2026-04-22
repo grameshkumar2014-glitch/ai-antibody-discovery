@@ -3,6 +3,33 @@ AI-Driven Antibody Discovery Engine
 End-to-End Bioinformatics + AI Pipeline | Automated | Dashboard Enabled
 
 <img width="1402" height="1122" alt="dashboard" src="https://github.com/user-attachments/assets/515fb2d0-fb97-4040-88fd-2e14b2a7bc09" />
+
+## ▶️ How to Run
+
+```bash
+git clone <your-repo-link>
+cd AI-Antibody-Discovery-Engine
+
+# Create environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run full pipeline
+./run_pipeline.sh
+```
+
+---
+
+## 🌐 Access Dashboard
+
+Open in browser:
+
+http://localhost:8501
+(or Network URL if using WSL)
+
 Overview
 
 This project implements a complete pipeline for antibody sequence analysis and candidate ranking using bioinformatics feature extraction and AI-based scoring.
