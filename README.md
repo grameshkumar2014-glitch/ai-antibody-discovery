@@ -131,7 +131,7 @@ Positioning Statement
 
 Developed an automated AI-driven antibody discovery pipeline integrating bioinformatics feature extraction, computational scoring, and interactive visualization.
 
-## ⚡ One-Command Execution
+## One-Command Execution
 
 Run the complete antibody discovery pipeline with a single command:
 
